@@ -1,0 +1,9 @@
+"""Key_Word for categories of Non_Digital Comment"""
+
+{
+    "cata_list":["Non_Digital_Credit_Inqiury","Non_Digital_Branch_Service", "Non_Digital_Service_Fee","Non_Digital_Call_Center"],
+    "Non_Digital_Credit_Inqiury": ["credit","payment"],
+    "Non_Digital_Branch_Service": ["24/7", "branch", "ATM", "teller", "English"],
+    "Non_Digital_Service_Fee": ["charge","charges", "charging", "fee", "expensive", "too much", "fees", "charges", "reduce", "interest","reduced", "free", "lower", "cheap"],
+    "Non_Digital_Call_Center":["customer service", "agent", "agents", "call center","call"]
+} 
