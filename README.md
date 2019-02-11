@@ -3,7 +3,7 @@
 😀😄😂😭 Awesome Sentiment Analysis 😥😟😱😤 Awesome
 Curated list of Sentiment Analysis methods, implementations and misc.
 
-Sentiment Analysis is the field of study that analyzes people's opinions, sentiments, evaluations, attitudes, and emotions from written languages.
+Sentiment Analysis is the field of study that analyzes people's opinions, sentiments, evaluations, attitudes, and emotions from written languages.d
 
 
 
